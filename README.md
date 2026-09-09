@@ -5,3 +5,4 @@ Aqui demonstro os conceitos aprendidos na trilha GitHub Foundations.
 ## Aprendizados na Trilha GitHub Foundations
 - Versionamento com Git e GitHub
 - Criacao de Branches e Pull Requests
+### Status: Trilha GitHub Foundations Concluída!
